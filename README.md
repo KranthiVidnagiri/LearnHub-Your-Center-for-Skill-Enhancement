@@ -86,7 +86,7 @@ Here are the key pages of the project:
 -🔹 Gamification (badges, points, leaderboards)
 -🔹 Discussion forums for peer-to-peer learning
 -🔹 Mobile app version of LearnHub (React Native / Flutter)
--🔹 **Notifications & Alerts** – In Future Stay updated on course activities
+-🔹 Notifications & Alerts – In Future Stay updated on course activities
 
 ---
 
