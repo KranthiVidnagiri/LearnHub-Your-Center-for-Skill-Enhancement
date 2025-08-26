@@ -18,12 +18,10 @@ app.use(express.json());
 // app.use(cors())
 
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "http://localhost:5173", // your frontend port
   credentials: true,
 };
-
 app.use(cors(corsOptions));
-
 const uploadsDir = path.join(__dirname, "uploads");
 
 // Create uploads folder if it doesn’t exist

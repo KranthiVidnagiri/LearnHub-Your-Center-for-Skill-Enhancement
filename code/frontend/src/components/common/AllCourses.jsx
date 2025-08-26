@@ -50,7 +50,7 @@ const AllCourses = () => {
 
    const getAllCoursesUser = async () => {
       try {
-         const res = await axiosInstance.get(`api/user/getallcourses`, {
+         const res = await axiosInstance.get(`user/getallcourses`, {
             headers: {
                Authorization: `Bearer ${localStorage.getItem('token')}`,
             },

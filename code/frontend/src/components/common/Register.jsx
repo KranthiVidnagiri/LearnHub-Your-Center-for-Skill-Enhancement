@@ -37,7 +37,7 @@ const Register = () => {
       return alert("Please fill all fields");
     else {
       axiosInstance
-        .post("/api/user/register", data, { withCredentials: true })
+        .post("/user/register", data, { withCredentials: true })
         .then((response) => {
           if (response.data.success) {
             alert(response.data.message);

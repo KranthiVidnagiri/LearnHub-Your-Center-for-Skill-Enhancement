@@ -32,13 +32,14 @@ const storage = multer.diskStorage({
 const upload = multer({
   storage: storage,
   fileFilter: function (req, file, callback) {
-    var ext = path.extname(file.originalname);
-    if (ext !== ".mp4") {
-      return callback(new Error("Only .mp4 videos are allowed"));
+    const ext = path.extname(file.originalname).toLowerCase();
+    if (ext !== ".mp4" && ext !== ".png" && ext !== ".jpg" && ext !== ".jpeg") {
+      return callback(new Error("Only .mp4, .png, .jpg, and .jpeg files are allowed"));
     }
     callback(null, true);
   }
 });
+
 
 router.post("/register", registerController);
 

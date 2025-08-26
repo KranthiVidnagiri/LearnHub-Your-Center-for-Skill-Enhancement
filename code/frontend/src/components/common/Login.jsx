@@ -28,10 +28,10 @@ const Login = () => {
       if (!data?.email || !data?.password) {
          return alert("Please fill all fields");
       } else {
-         axiosInstance.post('/api/user/login', data)
+         axiosInstance.post('/user/login', data)
             .then((res) => {
                if (res.data.success) {
-                  alert(res.data.message)
+                  alert(res.data.message  )
 
                   localStorage.setItem("token", res.data.token);
                   localStorage.setItem("user", JSON.stringify(res.data.userData));
