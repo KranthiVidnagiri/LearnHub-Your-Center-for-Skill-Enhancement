@@ -81,12 +81,12 @@ Here are the key pages of the project:
 
 ## ✨ Future Improvements
 
--🔹 AI-based Voice Assist 
--🔹 Live coding compiler integration for practice problems
--🔹 Gamification (badges, points, leaderboards)
--🔹 Discussion forums for peer-to-peer learning
--🔹 Mobile app version of LearnHub (React Native / Flutter)
--🔹 Notifications & Alerts – In Future Stay updated on course activities
+- AI-based Voice Assist 
+- Live coding compiler integration for practice problems
+- Gamification (badges, points, leaderboards)
+- Discussion forums for peer-to-peer learning
+- Mobile app version of LearnHub (React Native / Flutter)
+- Notifications & Alerts – In Future Stay updated on course activities
 
 ---
 
