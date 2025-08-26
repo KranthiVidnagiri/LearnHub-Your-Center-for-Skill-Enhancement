@@ -9,11 +9,9 @@
 
 - ✅ **User Authentication** – Secure login & signup using JWT
 - 📚 **Course Management** – Browse, enroll, and access structured learning paths
-- 💻 **Practice Problems** – Solve coding challenges and track progress
 - 🎥 **Learning Resources** – Video tutorials, articles, and notes in each course
 - 📊 **Student Dashboard** – Personalized space to view enrolled courses & progress
 - 🗂️ **Teacher Panel** – Manage users, courses, and content efficiently
-- 🔔 **Notifications & Alerts** – Stay updated on course activities
 - 📱 **Responsive UI** – Seamless experience across desktop, tablet, and mobile
 
 ---
@@ -88,6 +86,7 @@ Here are the key pages of the project:
 -🔹 Gamification (badges, points, leaderboards)
 -🔹 Discussion forums for peer-to-peer learning
 -🔹 Mobile app version of LearnHub (React Native / Flutter)
+-🔹 **Notifications & Alerts** – In Future Stay updated on course activities
 
 ---
 
