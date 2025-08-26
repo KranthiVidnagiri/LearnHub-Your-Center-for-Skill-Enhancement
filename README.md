@@ -98,12 +98,10 @@ For any inquiries, collaborations, or suggestions, feel free to connect with me:
 - 👨‍💻 **Name:** Vidnagiri Kranthi Kumar
 - 📧 **Email:** [vidnagiri@gmail.com](mailto:vidnagiri@gmail.com)
 - 💻 **GitHub:** [KranthiVidnagiri](https://github.com/KranthiVidnagiri)
-- 🔗 **LinkedIn:** \[Your LinkedIn Profile Link]
+- 🔗 **LinkedIn:** [KranthiVidnagiri](https://www.linkedin.com/in/kranthividnagiri/)
 
 ---
 
 - ✨ *LearnHub Center is not just a project, but a step towards building a complete online learning ecosystem for students.* 🚀
 
 ---
-
-Would you like me to also make a **short LinkedIn post description** (2–3 lines) highlighting your internship + LearnHub project so you can directly post it with your certificate/screenshots?
