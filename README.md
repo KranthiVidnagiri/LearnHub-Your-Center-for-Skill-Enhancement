@@ -7,23 +7,23 @@
 
 ## 🚀 Features
 
-✅ **User Authentication** – Secure login & signup using JWT
-📚 **Course Management** – Browse, enroll, and access structured learning paths
-💻 **Practice Problems** – Solve coding challenges and track progress
-🎥 **Learning Resources** – Video tutorials, articles, and notes in each course
-📊 **User Dashboard** – Personalized space to view enrolled courses & progress
-🗂️ **Admin Panel** – Manage users, courses, and content efficiently
-🔔 **Notifications & Alerts** – Stay updated on course activities
-📱 **Responsive UI** – Seamless experience across desktop, tablet, and mobile
+- ✅ **User Authentication** – Secure login & signup using JWT
+- 📚 **Course Management** – Browse, enroll, and access structured learning paths
+- 💻 **Practice Problems** – Solve coding challenges and track progress
+- 🎥 **Learning Resources** – Video tutorials, articles, and notes in each course
+- 📊 **User Dashboard** – Personalized space to view enrolled courses & progress
+- 🗂️ **Admin Panel** – Manage users, courses, and content efficiently
+- 🔔 **Notifications & Alerts** – Stay updated on course activities
+- 📱 **Responsive UI** – Seamless experience across desktop, tablet, and mobile
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React + Tailwind CSS
-* **Backend:** Node.js + Express.js
-* **Database:** MongoDB
-* **Authentication:** JWT (JSON Web Token) + Bcrypt
+- **Frontend:** React + Tailwind CSS
+- **Backend:** Node.js + Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT (JSON Web Token) + Bcrypt
 
 
 ---
